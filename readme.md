@@ -2,26 +2,27 @@
 
 Data Engineer passionate about building data pipelines, data models, analytics solutions, and AI-powered applications.
 
-## What I'm Working On
+## 🌱 Currently Exploring
 
-* Data Engineering Projects
+* Data Engineering & Modern Data Platforms
 * Data Modeling & Warehousing
 * AI & Machine Learning
-* SQL & Python
+* Building Real-World Projects with Python & SQL
 
-## Skills
+## 🛠️ Tech Stack
 
-Python • SQL • Apache Spark • Databricks • Data Modeling • ETL • AI
+**Python • SQL • Apache Spark • Databricks • ETL • Data Modeling • Power BI • AI**
 
-## Certifications
+## 🎓 Certifications
 
-* Databricks Data Engineer Associate  [View Credential](https://credentials.databricks.com/0a3c7bfd-c97f-48cd-817e-1dff70669bb7#acc.39PIjzTb)
-* Power BI Data Analyst Associate  [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/RamllaAkmel-2524/A2E9F725565FEBD?sharingId=13A3EA64A1FFCCF7)
-* Apache Airflow 3 Fundamentals  [View Credential](https://www.credly.com/badges/c020960a-3a81-45fc-aa23-a527532c0685/public_url)
-* AI Agent Engineering  [View Credential](https://drive.google.com/file/d/1MyOHuGkQZb_ZF1FVnaOHOVfQPoWMwk6G/view?usp=sharing)
+* Databricks Data Engineer Associate — [View Credential](https://credentials.databricks.com/0a3c7bfd-c97f-48cd-817e-1dff70669bb7#acc.39PIjzTb)
+* Power BI Data Analyst Associate — [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/RamllaAkmel-2524/A2E9F725565FEBD?sharingId=13A3EA64A1FFCCF7)
+* Apache Airflow 3 Fundamentals — [View Credential](https://www.credly.com/badges/c020960a-3a81-45fc-aa23-a527532c0685/public_url)
+* AI Agent Engineering — [View Credential](https://drive.google.com/file/d/1MyOHuGkQZb_ZF1FVnaOHOVfQPoWMwk6G/view?usp=sharing)
 
-## Connect
+## 🤝 Let's Connect
 
-LinkedIn: linkedin.com/in/ramlla-akmel/
+* LinkedIn: [linkedin.com/in/ramlla-akmel](https://linkedin.com/in/ramlla-akmel)
+* Email: [akmelramlla99@gmail.com](mailto:akmelramlla99@gmail.com)
 
-Email: akmelramlla99@gmail.com
+
